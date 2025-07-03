@@ -2,9 +2,13 @@
 Quantum Tutor using Agentic AI chatbot using BeeAI Framework and Langchain based RAG agent 
 
 Final_Quantum_Tutor_Week6 -------- for Agentic RAG (arxic+ibm api tool) chatbot
+
 Quantum_tutor_week3 ------- for RAG agent based chatbot 
+
 Quality_test ----- for comparision analysis of the agents 
+
 Final_Quantum_Tutor --- Code walkthrough of the entire project 
+
 
 Few API tokens that need to be set up before we get started 
 
