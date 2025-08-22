@@ -3,14 +3,19 @@ Quantum Tutor using Agentic AI chatbot using BeeAI Framework and Langchain based
 
 Final_Quantum_Tutor_Week6 -------- for Agentic RAG (arxic+ibm api tool) chatbot (ipynb file)
 
+
 Ensure ur API keys are used in the ipynb file for it to work,Run all the cells one by one(mono repo file) no external setup or requirements file is needed 
 all of the initial requirement are in the form of cells in the ipynb file
+
 
 Quantum_tutor_week3 ------- for RAG agent based chatbot (ipynb file)
 
 Quality_test ----- for comparision analysis of the agents (ipynb file)
+
 Qs_250  ----- Questions asked to both Quantum Tutor and Gemini 2.5 Flash 
+
 Gold standard Gemini --- Answers that Gemini gave 
+
 Quantum Tutor 250 --- Answers that Quantum Tutor gave 
 
 
