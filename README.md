@@ -7,7 +7,7 @@ Quantum_tutor_week3 ------- for RAG agent based chatbot
 
 Quality_test ----- for comparision analysis of the agents 
 
-Final_Quantum_Tutor --- Code walkthrough of the entire project 
+Quantum_Tutor_GRM_project.pdf --- Code walkthrough of the entire project 
 
 
 Few API tokens that need to be set up before we get started 
